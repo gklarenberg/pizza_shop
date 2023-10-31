@@ -35,7 +35,6 @@ for (salesdata in all_sales){
 #str(datafile_list)
 
 #actual working code
-dataset_15[ -6 ]
 sales_data <- full_join(dataset_1, dataset_2)
 sales_data <- full_join(sales_data, dataset_3)
 sales_data <- full_join(sales_data, dataset_4)
@@ -88,3 +87,10 @@ sales_ave_daily <- sales_data %>%
 
 ggplot(data = sales_ave_daily, aes(x = date, y = ave_sales, fill = pizza))+
   geom_bar(stat = "identity", position = "dodge")
+
+#Answers: 
+# The final dataset has 6 columns because dataset 15 has 6 columns 
+
+# If the pizzeria only sells 30 pizza a day, some of the 
+#dates for the pizza types are showing over 100 for that day
+#which could make the data turn out very strange
