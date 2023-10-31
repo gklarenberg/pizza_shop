@@ -38,6 +38,35 @@ all_sales_df <- datafile %>%
 
 ## My dataframe upon full_join has 841 rows and 6 columns.
 
+#### Warning Messages ####
+# Warning messages:
+#   1: In full_join(., dataset_3) :
+#   Detected an unexpected many-to-many relationship between `x` and `y`.
+# ℹ Row 125 of `x` matches multiple rows in `y`.
+# ℹ Row 1 of `y` matches multiple rows in `x`.
+# ℹ If a many-to-many relationship is expected, set `relationship = "many-to-many"` to silence this warning.
+# 2: In full_join(., dataset_5) :
+#   Detected an unexpected many-to-many relationship between `x` and `y`.
+# ℹ Row 242 of `x` matches multiple rows in `y`.
+# ℹ Row 15 of `y` matches multiple rows in `x`.
+# ℹ If a many-to-many relationship is expected, set `relationship = "many-to-many"` to silence this warning.
+# 3: In full_join(., dataset_11) :
+#   Detected an unexpected many-to-many relationship between `x` and `y`.
+# ℹ Row 630 of `x` matches multiple rows in `y`.
+# ℹ Row 18 of `y` matches multiple rows in `x`.
+# ℹ If a many-to-many relationship is expected, set `relationship = "many-to-many"` to silence this warning.
+# 4: In full_join(., dataset_12) :
+#   Detected an unexpected many-to-many relationship between `x` and `y`.
+# ℹ Row 635 of `x` matches multiple rows in `y`.
+# ℹ Row 29 of `y` matches multiple rows in `x`.
+# ℹ If a many-to-many relationship is expected, set `relationship = "many-to-many"` to silence this warning.
+# 5: In full_join(., dataset_16) :
+#   Detected an unexpected many-to-many relationship between `x` and `y`.
+# ℹ Row 16 of `x` matches multiple rows in `y`.
+# ℹ Row 16 of `y` matches multiple rows in `x`.
+# ℹ If a many-to-many relationship is expected, set `relationship = "many-to-many"` to silence this warning.
+
+
 
 
 
