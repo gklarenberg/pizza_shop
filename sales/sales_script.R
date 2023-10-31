@@ -18,8 +18,33 @@ for (salesdata in all_sales){
 ############## JOIN ###############
 # Use a tidyverse join to join all the data together into one file
 # called sales_data, then run the rest of the code
+all_sales_df <- datafile %>% 
+  full_join(dataset_1) %>% 
+  full_join(dataset_2) %>% 
+  full_join(dataset_3) %>% 
+  full_join(dataset_4) %>% 
+  full_join(dataset_5) %>% 
+  full_join(dataset_6) %>% 
+  full_join(dataset_7) %>% 
+  full_join(dataset_8) %>% 
+  full_join(dataset_9) %>% 
+  full_join(dataset_10) %>% 
+  full_join(dataset_11) %>% 
+  full_join(dataset_12) %>% 
+  full_join(dataset_13) %>% 
+  full_join(dataset_14) %>% 
+  full_join(dataset_15) %>% 
+  full_join(dataset_16)
+
+## My dataframe upon full_join has 841 rows and 6 columns.
 
 
+
+
+##1c. The final dataset has 6 columns because full_join is going to merge the 
+## datasets based on all the rows and columns present in all the datasets given. So,
+##among the given datasets, dataset_15 does have 6 columns. Hence, the final 
+## combined dataset has 6 columns too.
 
 ########################################
 
