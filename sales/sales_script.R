@@ -18,7 +18,7 @@ for (salesdata in all_sales){
 ############## JOIN ###############
 # Use a tidyverse join to join all the data together into one file
 # called sales_data, then run the rest of the code
-all_sales_df <- datafile %>% 
+sales_data <- datafile %>% 
   full_join(dataset_1) %>% 
   full_join(dataset_2) %>% 
   full_join(dataset_3) %>% 
@@ -40,33 +40,12 @@ all_sales_df <- datafile %>%
 
 #### Warning Messages ####
 # Warning messages:
-#   1: In full_join(., dataset_3) :
-#   Detected an unexpected many-to-many relationship between `x` and `y`.
-# ℹ Row 125 of `x` matches multiple rows in `y`.
-# ℹ Row 1 of `y` matches multiple rows in `x`.
-# ℹ If a many-to-many relationship is expected, set `relationship = "many-to-many"` to silence this warning.
-# 2: In full_join(., dataset_5) :
-#   Detected an unexpected many-to-many relationship between `x` and `y`.
-# ℹ Row 242 of `x` matches multiple rows in `y`.
-# ℹ Row 15 of `y` matches multiple rows in `x`.
-# ℹ If a many-to-many relationship is expected, set `relationship = "many-to-many"` to silence this warning.
-# 3: In full_join(., dataset_11) :
-#   Detected an unexpected many-to-many relationship between `x` and `y`.
-# ℹ Row 630 of `x` matches multiple rows in `y`.
-# ℹ Row 18 of `y` matches multiple rows in `x`.
-# ℹ If a many-to-many relationship is expected, set `relationship = "many-to-many"` to silence this warning.
-# 4: In full_join(., dataset_12) :
-#   Detected an unexpected many-to-many relationship between `x` and `y`.
-# ℹ Row 635 of `x` matches multiple rows in `y`.
-# ℹ Row 29 of `y` matches multiple rows in `x`.
-# ℹ If a many-to-many relationship is expected, set `relationship = "many-to-many"` to silence this warning.
-# 5: In full_join(., dataset_16) :
-#   Detected an unexpected many-to-many relationship between `x` and `y`.
-# ℹ Row 16 of `x` matches multiple rows in `y`.
-# ℹ Row 16 of `y` matches multiple rows in `x`.
-# ℹ If a many-to-many relationship is expected, set `relationship = "many-to-many"` to silence this warning.
-
-
+## We observe many-to-many relationship expectation errors
+## as it seems since we did not specify by which groups we wanted to 
+## join the dataframes. The many-to many relationship essentially means
+## that the a row in x dataframes matches with multiple rows in
+## y dtaframes and vice-versa where x and y are 1st and 2nd dataframes in the order of full_join
+## arguments
 
 
 
@@ -108,3 +87,8 @@ sales_ave_daily <- sales_data %>%
 
 ggplot(data = sales_ave_daily, aes(x = date, y = ave_sales, fill = pizza))+
   geom_bar(stat = "identity", position = "dodge")
+
+
+## the plots look questionable given that these pizzas do not sell more than 30 numbers per day
+## but the plots do show the total go beyond 500 since 2022. Also, on some days, it seems that the
+## there are 0 mean sales value and some days, they are of value 50.
