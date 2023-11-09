@@ -92,3 +92,5 @@ ggplot(data = sales_ave_daily, aes(x = date, y = ave_sales, fill = pizza))+
 ## the plots look questionable given that these pizzas do not sell more than 30 numbers per day
 ## but the plots do show the total go beyond 500 since 2022. Also, on some days, it seems that the
 ## there are 0 mean sales value and some days, they are of value 50.
+
+## end assignment
