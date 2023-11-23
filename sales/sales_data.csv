@@ -1,0 +1,1960 @@
+day,month,year,pizza,number,date
+9,3,2020,margherita,4,NA
+9,3,2020,margherita,4,NA
+9,3,2020,margherita,4,NA
+9,3,2020,margherita,5,NA
+9,3,2020,margherita,5,NA
+9,3,2020,margherita,5,NA
+9,3,2020,margherita,4,NA
+9,3,2020,margherita,4,NA
+9,3,2020,margherita,4,NA
+9,3,2020,margherita,5,NA
+9,3,2020,margherita,5,NA
+9,3,2020,margherita,5,NA
+9,3,2020,margherita,4,NA
+9,3,2020,margherita,4,NA
+9,3,2020,margherita,4,NA
+9,3,2020,margherita,5,NA
+9,3,2020,margherita,5,NA
+9,3,2020,margherita,5,NA
+9,3,2020,hawaiian,2,NA
+9,3,2020,meat lovers,4,NA
+9,3,2020,hawaiian,5,NA
+9,3,2020,vegetarian,1,NA
+9,3,2020,hawaiian,4,NA
+9,3,2020,hawaiian,3,NA
+10,3,2020,hawaiian,4,NA
+10,3,2020,vegetarian,3,NA
+10,3,2020,meat lovers,1,NA
+10,3,2020,meat lovers,3,NA
+10,3,2020,margherita,3,NA
+10,3,2020,margherita,5,NA
+10,3,2020,margherita,1,NA
+10,3,2020,vegetarian,4,NA
+11,3,2020,vegetarian,2,NA
+11,3,2020,hawaiian,2,NA
+11,3,2020,hawaiian,2,NA
+11,3,2020,vegetarian,3,NA
+11,3,2020,vegetarian,3,NA
+11,3,2020,vegetarian,3,NA
+11,3,2020,vegetarian,4,NA
+11,3,2020,vegetarian,4,NA
+11,3,2020,meat lovers,4,NA
+11,3,2020,meat lovers,4,NA
+11,3,2020,meat lovers,2,NA
+11,3,2020,vegetarian,3,NA
+11,3,2020,vegetarian,3,NA
+11,3,2020,vegetarian,3,NA
+11,3,2020,hawaiian,1,NA
+11,3,2020,vegetarian,3,NA
+11,3,2020,vegetarian,3,NA
+11,3,2020,vegetarian,3,NA
+11,3,2020,meat lovers,4,NA
+11,3,2020,meat lovers,4,NA
+11,3,2020,hawaiian,3,NA
+11,3,2020,margherita,5,NA
+11,3,2020,margherita,5,NA
+11,3,2020,margherita,5,NA
+11,3,2020,margherita,5,NA
+11,3,2020,margherita,2,NA
+11,3,2020,margherita,2,NA
+11,3,2020,margherita,2,NA
+11,3,2020,margherita,2,NA
+11,3,2020,margherita,1,NA
+11,3,2020,margherita,3,NA
+11,3,2020,four cheese,2,NA
+11,3,2020,meat lovers,1,NA
+11,3,2020,hawaiian,2,NA
+11,3,2020,hawaiian,2,NA
+11,3,2020,vegetarian,4,NA
+11,3,2020,vegetarian,4,NA
+12,3,2020,vegetarian,4,NA
+12,3,2020,four cheese,2,NA
+12,3,2020,meat lovers,5,NA
+12,3,2020,meat lovers,5,NA
+12,3,2020,meat lovers,1,NA
+12,3,2020,meat lovers,5,NA
+12,3,2020,meat lovers,5,NA
+12,3,2020,hawaiian,1,NA
+12,3,2020,four cheese,4,NA
+12,3,2020,four cheese,4,NA
+12,3,2020,vegetarian,5,NA
+12,3,2020,four cheese,4,NA
+12,3,2020,four cheese,4,NA
+12,3,2020,margherita,4,NA
+12,3,2020,margherita,4,NA
+12,3,2020,margherita,4,NA
+12,3,2020,margherita,4,NA
+12,3,2020,margherita,3,NA
+13,3,2020,margherita,3,NA
+13,3,2020,four cheese,4,NA
+13,3,2020,meat lovers,4,NA
+13,3,2020,hawaiian,2,NA
+13,3,2020,vegetarian,3,NA
+13,3,2020,meat lovers,1,NA
+13,3,2020,margherita,4,NA
+13,3,2020,margherita,2,NA
+13,3,2020,margherita,2,NA
+13,3,2020,margherita,2,NA
+13,3,2020,margherita,2,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,4,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,margherita,5,NA
+9,4,2019,hawaiian,2,NA
+9,4,2019,meat lovers,4,NA
+9,4,2019,hawaiian,5,NA
+9,4,2019,vegetarian,1,NA
+9,4,2019,hawaiian,4,NA
+9,4,2019,hawaiian,3,NA
+10,4,2019,hawaiian,4,NA
+10,4,2019,vegetarian,3,NA
+10,4,2019,meat lovers,1,NA
+10,4,2019,meat lovers,3,NA
+10,4,2019,margherita,3,NA
+10,4,2019,margherita,5,NA
+10,4,2019,margherita,1,NA
+10,4,2019,vegetarian,4,NA
+11,4,2019,vegetarian,2,NA
+11,4,2019,hawaiian,2,NA
+11,4,2019,hawaiian,2,NA
+11,4,2019,hawaiian,2,NA
+11,4,2019,hawaiian,2,NA
+11,4,2019,hawaiian,2,NA
+11,4,2019,hawaiian,2,NA
+11,4,2019,hawaiian,2,NA
+11,4,2019,hawaiian,2,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,4,NA
+11,4,2019,vegetarian,4,NA
+11,4,2019,vegetarian,4,NA
+11,4,2019,vegetarian,4,NA
+11,4,2019,vegetarian,4,NA
+11,4,2019,vegetarian,4,NA
+11,4,2019,vegetarian,4,NA
+11,4,2019,vegetarian,4,NA
+11,4,2019,meat lovers,4,NA
+11,4,2019,meat lovers,4,NA
+11,4,2019,meat lovers,4,NA
+11,4,2019,meat lovers,4,NA
+11,4,2019,meat lovers,4,NA
+11,4,2019,meat lovers,4,NA
+11,4,2019,meat lovers,4,NA
+11,4,2019,meat lovers,4,NA
+11,4,2019,meat lovers,2,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,hawaiian,1,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,vegetarian,3,NA
+11,4,2019,meat lovers,4,NA
+11,4,2019,meat lovers,4,NA
+11,4,2019,meat lovers,4,NA
+11,4,2019,meat lovers,4,NA
+11,4,2019,meat lovers,4,NA
+11,4,2019,meat lovers,4,NA
+11,4,2019,meat lovers,4,NA
+11,4,2019,meat lovers,4,NA
+11,4,2019,hawaiian,3,NA
+11,4,2019,margherita,5,NA
+11,4,2019,margherita,5,NA
+11,4,2019,margherita,5,NA
+11,4,2019,margherita,5,NA
+11,4,2019,margherita,5,NA
+11,4,2019,margherita,5,NA
+11,4,2019,margherita,5,NA
+11,4,2019,margherita,5,NA
+11,4,2019,margherita,5,NA
+11,4,2019,margherita,5,NA
+11,4,2019,margherita,5,NA
+11,4,2019,margherita,5,NA
+11,4,2019,margherita,5,NA
+11,4,2019,margherita,5,NA
+11,4,2019,margherita,5,NA
+11,4,2019,margherita,5,NA
+11,4,2019,margherita,2,NA
+11,4,2019,margherita,2,NA
+11,4,2019,margherita,2,NA
+11,4,2019,margherita,2,NA
+11,4,2019,margherita,2,NA
+11,4,2019,margherita,2,NA
+11,4,2019,margherita,2,NA
+11,4,2019,margherita,2,NA
+11,4,2019,margherita,2,NA
+11,4,2019,margherita,2,NA
+11,4,2019,margherita,2,NA
+11,4,2019,margherita,2,NA
+11,4,2019,margherita,2,NA
+11,4,2019,margherita,2,NA
+11,4,2019,margherita,2,NA
+11,4,2019,margherita,2,NA
+11,4,2019,margherita,1,NA
+11,4,2019,margherita,3,NA
+11,4,2019,four cheese,2,NA
+11,4,2019,meat lovers,1,NA
+11,4,2019,hawaiian,2,NA
+11,4,2019,hawaiian,2,NA
+11,4,2019,hawaiian,2,NA
+11,4,2019,hawaiian,2,NA
+11,4,2019,hawaiian,2,NA
+11,4,2019,hawaiian,2,NA
+11,4,2019,hawaiian,2,NA
+11,4,2019,hawaiian,2,NA
+11,4,2019,vegetarian,4,NA
+11,4,2019,vegetarian,4,NA
+11,4,2019,vegetarian,4,NA
+11,4,2019,vegetarian,4,NA
+11,4,2019,vegetarian,4,NA
+11,4,2019,vegetarian,4,NA
+11,4,2019,vegetarian,4,NA
+11,4,2019,vegetarian,4,NA
+12,4,2019,vegetarian,4,NA
+12,4,2019,four cheese,2,NA
+12,4,2019,meat lovers,5,NA
+12,4,2019,meat lovers,5,NA
+12,4,2019,meat lovers,5,NA
+12,4,2019,meat lovers,5,NA
+12,4,2019,meat lovers,5,NA
+12,4,2019,meat lovers,5,NA
+12,4,2019,meat lovers,5,NA
+12,4,2019,meat lovers,5,NA
+12,4,2019,meat lovers,1,NA
+12,4,2019,meat lovers,5,NA
+12,4,2019,meat lovers,5,NA
+12,4,2019,meat lovers,5,NA
+12,4,2019,meat lovers,5,NA
+12,4,2019,meat lovers,5,NA
+12,4,2019,meat lovers,5,NA
+12,4,2019,meat lovers,5,NA
+12,4,2019,meat lovers,5,NA
+12,4,2019,hawaiian,1,NA
+12,4,2019,four cheese,4,NA
+12,4,2019,four cheese,4,NA
+12,4,2019,four cheese,4,NA
+12,4,2019,four cheese,4,NA
+12,4,2019,four cheese,4,NA
+12,4,2019,four cheese,4,NA
+12,4,2019,four cheese,4,NA
+12,4,2019,four cheese,4,NA
+12,4,2019,vegetarian,5,NA
+12,4,2019,four cheese,4,NA
+12,4,2019,four cheese,4,NA
+12,4,2019,four cheese,4,NA
+12,4,2019,four cheese,4,NA
+12,4,2019,four cheese,4,NA
+12,4,2019,four cheese,4,NA
+12,4,2019,four cheese,4,NA
+12,4,2019,four cheese,4,NA
+12,4,2019,margherita,4,NA
+12,4,2019,margherita,4,NA
+12,4,2019,margherita,4,NA
+12,4,2019,margherita,4,NA
+12,4,2019,margherita,4,NA
+12,4,2019,margherita,4,NA
+12,4,2019,margherita,4,NA
+12,4,2019,margherita,4,NA
+12,4,2019,margherita,4,NA
+12,4,2019,margherita,4,NA
+12,4,2019,margherita,4,NA
+12,4,2019,margherita,4,NA
+12,4,2019,margherita,4,NA
+12,4,2019,margherita,4,NA
+12,4,2019,margherita,4,NA
+12,4,2019,margherita,4,NA
+12,4,2019,margherita,3,NA
+13,4,2019,margherita,3,NA
+13,4,2019,four cheese,4,NA
+13,4,2019,meat lovers,4,NA
+13,4,2019,hawaiian,2,NA
+13,4,2019,vegetarian,3,NA
+13,4,2019,meat lovers,1,NA
+13,4,2019,margherita,4,NA
+13,4,2019,margherita,2,NA
+13,4,2019,margherita,2,NA
+13,4,2019,margherita,2,NA
+13,4,2019,margherita,2,NA
+13,4,2019,margherita,2,NA
+13,4,2019,margherita,2,NA
+13,4,2019,margherita,2,NA
+13,4,2019,margherita,2,NA
+13,4,2019,margherita,2,NA
+13,4,2019,margherita,2,NA
+13,4,2019,margherita,2,NA
+13,4,2019,margherita,2,NA
+13,4,2019,margherita,2,NA
+13,4,2019,margherita,2,NA
+13,4,2019,margherita,2,NA
+13,4,2019,margherita,2,NA
+24,10,2021,meat lovers,2,NA
+24,10,2021,margherita,4,NA
+24,10,2021,margherita,4,NA
+24,10,2021,meat lovers,4,NA
+24,10,2021,vegetarian,2,NA
+24,10,2021,margherita,4,NA
+24,10,2021,margherita,4,NA
+24,10,2021,hawaiian,3,NA
+24,10,2021,vegetarian,1,NA
+24,10,2021,vegetarian,1,NA
+24,10,2021,meat lovers,5,NA
+24,10,2021,margherita,2,NA
+24,10,2021,margherita,3,NA
+24,10,2021,vegetarian,1,NA
+24,10,2021,vegetarian,1,NA
+24,10,2021,hawaiian,5,NA
+25,10,2021,vegetarian,2,NA
+25,10,2021,vegetarian,2,NA
+25,10,2021,margherita,5,NA
+25,10,2021,margherita,5,NA
+25,10,2021,margherita,5,NA
+25,10,2021,margherita,5,NA
+25,10,2021,vegetarian,2,NA
+25,10,2021,vegetarian,2,NA
+25,10,2021,margherita,1,NA
+25,10,2021,hawaiian,5,NA
+25,10,2021,margherita,4,NA
+25,10,2021,margherita,3,NA
+25,10,2021,margherita,3,NA
+25,10,2021,margherita,3,NA
+25,10,2021,margherita,3,NA
+25,10,2021,margherita,3,NA
+25,10,2021,margherita,3,NA
+25,10,2021,margherita,3,NA
+25,10,2021,margherita,3,NA
+25,10,2021,margherita,3,NA
+26,10,2021,margherita,1,NA
+26,10,2021,margherita,1,NA
+26,10,2021,margherita,1,NA
+26,10,2021,meat lovers,1,NA
+26,10,2021,meat lovers,1,NA
+26,10,2021,meat lovers,1,NA
+26,10,2021,meat lovers,1,NA
+26,10,2021,hawaiian,4,NA
+26,10,2021,meat lovers,3,NA
+26,10,2021,margherita,4,NA
+26,10,2021,margherita,3,NA
+26,10,2021,margherita,3,NA
+26,10,2021,margherita,3,NA
+26,10,2021,margherita,3,NA
+26,10,2021,margherita,2,NA
+26,10,2021,margherita,2,NA
+26,10,2021,meat lovers,4,NA
+26,10,2021,meat lovers,4,NA
+26,10,2021,meat lovers,4,NA
+26,10,2021,vegetarian,4,NA
+26,10,2021,vegetarian,4,NA
+26,10,2021,vegetarian,4,NA
+26,10,2021,vegetarian,5,NA
+26,10,2021,vegetarian,5,NA
+26,10,2021,vegetarian,5,NA
+26,10,2021,vegetarian,4,NA
+26,10,2021,vegetarian,4,NA
+26,10,2021,vegetarian,4,NA
+26,10,2021,margherita,1,NA
+26,10,2021,margherita,1,NA
+26,10,2021,margherita,1,NA
+26,10,2021,margherita,2,NA
+26,10,2021,margherita,2,NA
+26,10,2021,meat lovers,5,NA
+26,10,2021,meat lovers,4,NA
+26,10,2021,meat lovers,4,NA
+26,10,2021,meat lovers,4,NA
+26,10,2021,margherita,1,NA
+26,10,2021,margherita,1,NA
+26,10,2021,margherita,1,NA
+26,10,2021,vegetarian,5,NA
+26,10,2021,vegetarian,5,NA
+26,10,2021,vegetarian,5,NA
+26,10,2021,vegetarian,5,NA
+26,10,2021,vegetarian,5,NA
+26,10,2021,vegetarian,5,NA
+26,10,2021,vegetarian,4,NA
+26,10,2021,vegetarian,4,NA
+26,10,2021,vegetarian,4,NA
+26,10,2021,meat lovers,4,NA
+26,10,2021,meat lovers,4,NA
+26,10,2021,meat lovers,4,NA
+27,10,2021,vegetarian,5,NA
+27,10,2021,vegetarian,4,NA
+27,10,2021,four cheese,4,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,margherita,4,NA
+27,10,2021,margherita,4,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,meat lovers,1,NA
+27,10,2021,meat lovers,4,NA
+27,10,2021,meat lovers,4,NA
+27,10,2021,meat lovers,4,NA
+27,10,2021,meat lovers,4,NA
+27,10,2021,margherita,4,NA
+27,10,2021,margherita,4,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,vegetarian,3,NA
+27,10,2021,meat lovers,5,NA
+28,10,2021,hawaiian,4,NA
+28,10,2021,vegetarian,4,NA
+28,10,2021,margherita,5,NA
+28,10,2021,hawaiian,2,NA
+28,10,2021,meat lovers,3,NA
+28,10,2021,meat lovers,3,NA
+28,10,2021,meat lovers,3,NA
+28,10,2021,meat lovers,3,NA
+28,10,2021,meat lovers,1,NA
+28,10,2021,margherita,3,NA
+28,10,2021,margherita,2,NA
+28,10,2021,hawaiian,3,NA
+29,10,2021,vegetarian,4,NA
+29,10,2021,meat lovers,4,NA
+29,10,2021,four cheese,1,NA
+29,10,2021,meat lovers,2,NA
+29,10,2021,vegetarian,1,NA
+29,10,2021,hawaiian,4,NA
+29,10,2021,margherita,4,NA
+29,10,2021,vegetarian,3,NA
+29,10,2021,margherita,3,NA
+29,10,2021,margherita,3,NA
+29,10,2021,meat lovers,5,NA
+29,10,2021,four cheese,3,NA
+29,10,2021,margherita,2,NA
+29,10,2021,margherita,2,NA
+29,10,2021,margherita,2,NA
+29,10,2021,margherita,2,NA
+29,10,2021,margherita,3,NA
+29,10,2021,margherita,3,NA
+30,10,2021,hawaiian,1,NA
+30,10,2021,hawaiian,1,NA
+30,10,2021,four cheese,2,NA
+30,10,2021,four cheese,2,NA
+30,10,2021,hawaiian,1,NA
+30,10,2021,hawaiian,1,NA
+30,10,2021,hawaiian,4,NA
+30,10,2021,hawaiian,4,NA
+30,10,2021,hawaiian,4,NA
+30,10,2021,hawaiian,2,NA
+30,10,2021,vegetarian,3,NA
+30,10,2021,vegetarian,3,NA
+30,10,2021,four cheese,2,NA
+30,10,2021,four cheese,2,NA
+30,10,2021,margherita,4,NA
+30,10,2021,margherita,4,NA
+30,10,2021,vegetarian,3,NA
+30,10,2021,vegetarian,3,NA
+30,10,2021,meat lovers,4,NA
+30,10,2021,margherita,1,NA
+30,10,2021,margherita,1,NA
+30,10,2021,margherita,1,NA
+30,10,2021,four cheese,5,NA
+30,10,2021,four cheese,5,NA
+30,10,2021,margherita,1,NA
+30,10,2021,margherita,1,NA
+30,10,2021,margherita,1,NA
+30,10,2021,four cheese,3,NA
+30,10,2021,margherita,1,NA
+30,10,2021,margherita,1,NA
+30,10,2021,margherita,1,NA
+30,10,2021,margherita,5,NA
+30,10,2021,meat lovers,2,NA
+30,10,2021,hawaiian,4,NA
+30,10,2021,hawaiian,4,NA
+30,10,2021,hawaiian,4,NA
+30,10,2021,margherita,4,NA
+30,10,2021,margherita,4,NA
+30,10,2021,four cheese,5,NA
+30,10,2021,four cheese,5,NA
+30,10,2021,hawaiian,4,NA
+30,10,2021,hawaiian,4,NA
+30,10,2021,hawaiian,4,NA
+31,10,2021,margherita,1,NA
+31,10,2021,margherita,1,NA
+31,10,2021,margherita,1,NA
+31,10,2021,margherita,1,NA
+31,10,2021,margherita,1,NA
+31,10,2021,margherita,1,NA
+31,10,2021,margherita,3,NA
+31,10,2021,margherita,3,NA
+31,10,2021,meat lovers,5,NA
+31,10,2021,four cheese,1,NA
+31,10,2021,margherita,2,NA
+31,10,2021,margherita,2,NA
+31,10,2021,margherita,2,NA
+31,10,2021,margherita,2,NA
+31,10,2021,margherita,5,NA
+31,10,2021,margherita,5,NA
+31,10,2021,margherita,5,NA
+31,10,2021,margherita,5,NA
+31,10,2021,margherita,5,NA
+31,10,2021,margherita,2,NA
+31,10,2021,margherita,2,NA
+31,10,2021,margherita,2,NA
+31,10,2021,margherita,2,NA
+31,10,2021,vegetarian,2,NA
+31,10,2021,vegetarian,2,NA
+31,10,2021,margherita,5,NA
+31,10,2021,margherita,5,NA
+31,10,2021,margherita,5,NA
+31,10,2021,margherita,5,NA
+31,10,2021,margherita,5,NA
+31,10,2021,four cheese,4,NA
+31,10,2021,meat lovers,1,NA
+31,10,2021,margherita,3,NA
+31,10,2021,margherita,3,NA
+31,10,2021,hawaiian,4,NA
+31,10,2021,hawaiian,4,NA
+31,10,2021,hawaiian,4,NA
+31,10,2021,hawaiian,2,NA
+31,10,2021,margherita,1,NA
+31,10,2021,margherita,1,NA
+31,10,2021,margherita,1,NA
+31,10,2021,hawaiian,3,NA
+31,10,2021,hawaiian,3,NA
+31,10,2021,vegetarian,3,NA
+31,10,2021,hawaiian,3,NA
+31,10,2021,hawaiian,3,NA
+31,10,2021,hawaiian,5,NA
+31,10,2021,margherita,5,NA
+31,10,2021,margherita,5,NA
+31,10,2021,margherita,5,NA
+31,10,2021,margherita,5,NA
+31,10,2021,margherita,5,NA
+31,10,2021,margherita,5,NA
+31,10,2021,margherita,5,NA
+31,10,2021,margherita,5,NA
+31,10,2021,margherita,5,NA
+31,10,2021,margherita,5,NA
+31,10,2021,margherita,4,NA
+31,10,2021,margherita,4,NA
+31,10,2021,margherita,2,NA
+31,10,2021,margherita,2,NA
+31,10,2021,margherita,2,NA
+31,10,2021,margherita,2,NA
+31,10,2021,vegetarian,4,NA
+31,10,2021,vegetarian,4,NA
+31,10,2021,margherita,5,NA
+31,10,2021,margherita,5,NA
+31,10,2021,margherita,5,NA
+31,10,2021,margherita,5,NA
+31,10,2021,margherita,5,NA
+31,10,2021,meat lovers,2,NA
+31,10,2021,margherita,2,NA
+31,10,2021,margherita,2,NA
+31,10,2021,margherita,2,NA
+31,10,2021,margherita,2,NA
+31,10,2021,hawaiian,4,NA
+31,10,2021,hawaiian,4,NA
+31,10,2021,hawaiian,4,NA
+31,10,2021,margherita,4,NA
+31,10,2021,margherita,4,NA
+31,10,2021,hawaiian,4,NA
+31,10,2021,hawaiian,4,NA
+31,10,2021,hawaiian,4,NA
+31,10,2021,vegetarian,4,NA
+31,10,2021,vegetarian,4,NA
+31,10,2021,meat lovers,4,NA
+31,10,2021,vegetarian,2,NA
+31,10,2021,vegetarian,2,NA
+31,10,2021,meat lovers,3,NA
+25,10,2021,margherita,7,NA
+25,10,2021,margherita,7,NA
+25,10,2021,margherita,7,NA
+25,10,2021,margherita,7,NA
+25,10,2021,margherita,7,NA
+25,10,2021,margherita,7,NA
+25,10,2021,margherita,7,NA
+25,10,2021,margherita,7,NA
+25,10,2021,margherita,7,NA
+25,10,2021,hawaiian,2,NA
+25,10,2021,meat lovers,7,NA
+25,10,2021,hawaiian,3,NA
+25,10,2021,hawaiian,3,NA
+25,10,2021,vegetarian,1,NA
+25,10,2021,hawaiian,7,NA
+25,10,2021,hawaiian,3,NA
+25,10,2021,hawaiian,3,NA
+26,10,2021,hawaiian,7,NA
+26,10,2021,vegetarian,3,NA
+26,10,2021,vegetarian,7,NA
+27,10,2021,vegetarian,2,NA
+27,10,2021,hawaiian,2,NA
+27,10,2021,hawaiian,2,NA
+27,10,2021,vegetarian,7,NA
+27,10,2021,vegetarian,7,NA
+27,10,2021,meat lovers,7,NA
+27,10,2021,meat lovers,7,NA
+27,10,2021,meat lovers,2,NA
+27,10,2021,hawaiian,1,NA
+27,10,2021,meat lovers,7,NA
+27,10,2021,meat lovers,7,NA
+27,10,2021,hawaiian,3,NA
+27,10,2021,margherita,3,NA
+27,10,2021,margherita,3,NA
+27,10,2021,margherita,3,NA
+27,10,2021,margherita,3,NA
+27,10,2021,margherita,3,NA
+27,10,2021,margherita,3,NA
+27,10,2021,margherita,2,NA
+27,10,2021,margherita,2,NA
+27,10,2021,margherita,2,NA
+27,10,2021,margherita,2,NA
+27,10,2021,margherita,1,NA
+27,10,2021,margherita,3,NA
+27,10,2021,margherita,3,NA
+27,10,2021,margherita,3,NA
+27,10,2021,four cheese,2,NA
+27,10,2021,hawaiian,2,NA
+27,10,2021,hawaiian,2,NA
+27,10,2021,vegetarian,7,NA
+27,10,2021,vegetarian,7,NA
+28,10,2021,vegetarian,7,NA
+28,10,2021,four cheese,2,NA
+28,10,2021,hawaiian,1,NA
+28,10,2021,four cheese,7,NA
+28,10,2021,four cheese,7,NA
+28,10,2021,vegetarian,3,NA
+28,10,2021,four cheese,7,NA
+28,10,2021,four cheese,7,NA
+28,10,2021,margherita,7,NA
+28,10,2021,margherita,7,NA
+28,10,2021,margherita,7,NA
+28,10,2021,margherita,7,NA
+29,10,2021,four cheese,7,NA
+29,10,2021,meat lovers,7,NA
+29,10,2021,hawaiian,2,NA
+29,10,2021,meat lovers,1,NA
+29,10,2021,margherita,7,NA
+9,12,2021,meat lovers,200,NA
+9,12,2021,vegetarian,2,NA
+9,12,2021,four cheese,103,NA
+1,1,2022,margherita,1,NA
+1,1,2022,margherita,1,NA
+1,1,2022,margherita,1,NA
+1,1,2022,margherita,1,NA
+1,1,2022,hawaiian,2,NA
+1,1,2022,hawaiian,1,NA
+1,1,2022,vegetarian,3,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,4,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,1,NA
+1,1,2022,vegetarian,2,NA
+2,1,2022,vegetarian,1,NA
+2,1,2022,vegetarian,1,NA
+2,1,2022,vegetarian,1,NA
+2,1,2022,vegetarian,1,NA
+2,1,2022,four cheese,1,NA
+2,1,2022,meat lovers,1,NA
+2,1,2022,margherita,2,NA
+2,1,2022,margherita,1,NA
+2,1,2022,margherita,1,NA
+2,1,2022,margherita,1,NA
+2,1,2022,margherita,1,NA
+2,1,2022,meat lovers,2,NA
+2,1,2022,meat lovers,2,NA
+2,1,2022,meat lovers,2,NA
+2,1,2022,meat lovers,2,NA
+3,1,2022,meat lovers,1,NA
+3,1,2022,vegetarian,2,NA
+3,1,2022,vegetarian,1,NA
+3,1,2022,vegetarian,1,NA
+3,1,2022,vegetarian,1,NA
+3,1,2022,vegetarian,1,NA
+3,1,2022,vegetarian,4,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,3,NA
+4,1,2022,vegetarian,3,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,four cheese,1,NA
+4,1,2022,four cheese,1,NA
+4,1,2022,four cheese,1,NA
+4,1,2022,four cheese,1,NA
+4,1,2022,four cheese,2,NA
+4,1,2022,four cheese,2,NA
+4,1,2022,four cheese,2,NA
+4,1,2022,four cheese,1,NA
+4,1,2022,four cheese,1,NA
+4,1,2022,four cheese,1,NA
+4,1,2022,four cheese,1,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,3,NA
+4,1,2022,vegetarian,3,NA
+4,1,2022,four cheese,1,NA
+4,1,2022,four cheese,1,NA
+4,1,2022,four cheese,1,NA
+4,1,2022,four cheese,1,NA
+4,1,2022,four cheese,2,NA
+4,1,2022,four cheese,2,NA
+4,1,2022,four cheese,2,NA
+4,1,2022,four cheese,2,NA
+4,1,2022,four cheese,2,NA
+4,1,2022,four cheese,2,NA
+4,1,2022,four cheese,1,NA
+4,1,2022,four cheese,1,NA
+4,1,2022,four cheese,1,NA
+4,1,2022,four cheese,1,NA
+4,1,2022,hawaiian,1,NA
+4,1,2022,hawaiian,1,NA
+4,1,2022,hawaiian,1,NA
+4,1,2022,hawaiian,1,NA
+4,1,2022,hawaiian,1,NA
+4,1,2022,hawaiian,1,NA
+4,1,2022,hawaiian,1,NA
+4,1,2022,hawaiian,1,NA
+4,1,2022,hawaiian,3,NA
+4,1,2022,hawaiian,1,NA
+4,1,2022,hawaiian,1,NA
+4,1,2022,hawaiian,1,NA
+4,1,2022,hawaiian,1,NA
+4,1,2022,hawaiian,1,NA
+4,1,2022,hawaiian,1,NA
+4,1,2022,hawaiian,1,NA
+4,1,2022,hawaiian,1,NA
+4,1,2022,vegetarian,4,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,vegetarian,1,NA
+4,1,2022,meat lovers,2,NA
+5,1,2022,meat lovers,1,NA
+5,1,2022,meat lovers,1,NA
+5,1,2022,meat lovers,1,NA
+5,1,2022,meat lovers,1,NA
+5,1,2022,meat lovers,1,NA
+5,1,2022,meat lovers,1,NA
+5,1,2022,meat lovers,1,NA
+5,1,2022,meat lovers,1,NA
+5,1,2022,meat lovers,3,NA
+5,1,2022,meat lovers,1,NA
+5,1,2022,meat lovers,1,NA
+5,1,2022,meat lovers,1,NA
+5,1,2022,meat lovers,1,NA
+5,1,2022,meat lovers,1,NA
+5,1,2022,meat lovers,1,NA
+5,1,2022,meat lovers,1,NA
+5,1,2022,meat lovers,1,NA
+6,1,2022,hawaiian,1,NA
+6,1,2022,hawaiian,1,NA
+6,1,2022,hawaiian,1,NA
+6,1,2022,hawaiian,1,NA
+6,1,2022,hawaiian,1,NA
+6,1,2022,hawaiian,1,NA
+6,1,2022,hawaiian,1,NA
+6,1,2022,hawaiian,1,NA
+6,1,2022,hawaiian,1,NA
+6,1,2022,hawaiian,1,NA
+6,1,2022,hawaiian,1,NA
+6,1,2022,hawaiian,1,NA
+6,1,2022,hawaiian,2,NA
+6,1,2022,hawaiian,1,NA
+6,1,2022,hawaiian,1,NA
+6,1,2022,hawaiian,1,NA
+6,1,2022,hawaiian,1,NA
+7,1,2022,vegetarian,1,NA
+7,1,2022,vegetarian,1,NA
+7,1,2022,vegetarian,1,NA
+7,1,2022,vegetarian,1,NA
+7,1,2022,vegetarian,2,NA
+9,4,2022,margherita,5,NA
+9,4,2022,margherita,1,NA
+9,4,2022,margherita,4,NA
+9,4,2022,margherita,2,NA
+9,4,2022,margherita,2,NA
+9,4,2022,margherita,2,NA
+9,4,2022,margherita,2,NA
+9,4,2022,margherita,3,NA
+9,4,2022,hawaiian,4,NA
+9,4,2022,meat lovers,4,NA
+9,4,2022,hawaiian,2,NA
+9,4,2022,vegetarian,3,NA
+9,4,2022,hawaiian,1,NA
+9,4,2022,hawaiian,3,NA
+10,4,2022,hawaiian,4,NA
+10,4,2022,vegetarian,3,NA
+10,4,2022,vegetarian,3,NA
+10,4,2022,meat lovers,5,NA
+10,4,2022,meat lovers,5,NA
+10,4,2022,meat lovers,5,NA
+10,4,2022,meat lovers,5,NA
+10,4,2022,margherita,2,NA
+10,4,2022,margherita,2,NA
+10,4,2022,margherita,2,NA
+10,4,2022,margherita,2,NA
+10,4,2022,margherita,1,NA
+10,4,2022,vegetarian,3,NA
+10,4,2022,vegetarian,3,NA
+11,4,2022,vegetarian,2,NA
+11,4,2022,vegetarian,2,NA
+11,4,2022,hawaiian,1,NA
+11,4,2022,hawaiian,1,NA
+11,4,2022,vegetarian,2,NA
+11,4,2022,vegetarian,2,NA
+11,4,2022,vegetarian,4,NA
+11,4,2022,meat lovers,4,NA
+11,4,2022,meat lovers,2,NA
+11,4,2022,vegetarian,5,NA
+11,4,2022,vegetarian,5,NA
+11,4,2022,vegetarian,5,NA
+11,4,2022,hawaiian,1,NA
+11,4,2022,hawaiian,1,NA
+11,4,2022,vegetarian,5,NA
+11,4,2022,vegetarian,5,NA
+11,4,2022,vegetarian,5,NA
+11,4,2022,meat lovers,1,NA
+11,4,2022,hawaiian,4,NA
+11,4,2022,hawaiian,4,NA
+11,4,2022,margherita,5,NA
+11,4,2022,margherita,5,NA
+11,4,2022,margherita,4,NA
+11,4,2022,margherita,4,NA
+11,4,2022,margherita,4,NA
+11,4,2022,margherita,4,NA
+11,4,2022,margherita,4,NA
+11,4,2022,margherita,4,NA
+11,4,2022,margherita,4,NA
+11,4,2022,margherita,4,NA
+11,4,2022,margherita,4,NA
+11,4,2022,margherita,4,NA
+11,4,2022,margherita,4,NA
+11,4,2022,margherita,4,NA
+11,4,2022,margherita,4,NA
+11,4,2022,margherita,4,NA
+11,4,2022,margherita,4,NA
+11,4,2022,margherita,4,NA
+11,4,2022,margherita,5,NA
+11,4,2022,margherita,5,NA
+11,4,2022,four cheese,4,NA
+11,4,2022,meat lovers,5,NA
+11,4,2022,hawaiian,4,NA
+11,4,2022,hawaiian,4,NA
+11,4,2022,vegetarian,5,NA
+11,4,2022,vegetarian,5,NA
+11,4,2022,vegetarian,5,NA
+12,4,2022,vegetarian,2,NA
+12,4,2022,four cheese,4,NA
+12,4,2022,four cheese,4,NA
+12,4,2022,meat lovers,5,NA
+12,4,2022,meat lovers,1,NA
+12,4,2022,meat lovers,4,NA
+12,4,2022,hawaiian,3,NA
+12,4,2022,four cheese,4,NA
+12,4,2022,four cheese,4,NA
+12,4,2022,vegetarian,3,NA
+12,4,2022,four cheese,1,NA
+12,4,2022,margherita,3,NA
+12,4,2022,margherita,3,NA
+12,4,2022,margherita,3,NA
+12,4,2022,margherita,3,NA
+12,4,2022,margherita,3,NA
+12,4,2022,margherita,3,NA
+12,4,2022,margherita,3,NA
+12,4,2022,margherita,3,NA
+12,4,2022,margherita,3,NA
+13,4,2022,margherita,3,NA
+13,4,2022,four cheese,4,NA
+13,4,2022,meat lovers,4,NA
+13,4,2022,hawaiian,2,NA
+13,4,2022,vegetarian,3,NA
+13,4,2022,meat lovers,1,NA
+13,4,2022,margherita,4,NA
+13,4,2022,margherita,2,NA
+13,4,2022,margherita,2,NA
+13,4,2022,margherita,2,NA
+13,4,2022,margherita,2,NA
+5,8,2022,margherita,3,NA
+5,8,2022,margherita,3,NA
+5,8,2022,mediterranean,4,NA
+5,8,2022,mediterranean,4,NA
+5,8,2022,mediterranean,4,NA
+5,8,2022,mediterranean,4,NA
+5,8,2022,mediterranean,6,NA
+5,8,2022,margherita,3,NA
+5,8,2022,margherita,3,NA
+5,8,2022,margherita,1,NA
+5,8,2022,margherita,2,NA
+5,8,2022,margherita,6,NA
+5,8,2022,hawaiian,2,NA
+5,8,2022,meat lovers,3,NA
+5,8,2022,meat lovers,3,NA
+5,8,2022,mediterranean,3,NA
+5,8,2022,mediterranean,3,NA
+5,8,2022,vegetarian,2,NA
+5,8,2022,hawaiian,5,NA
+5,8,2022,meat lovers,3,NA
+5,8,2022,meat lovers,3,NA
+5,8,2022,mediterranean,3,NA
+5,8,2022,mediterranean,3,NA
+5,8,2022,vegetarian,5,NA
+5,8,2022,mediterranean,2,NA
+6,8,2022,hawaiian,1,NA
+6,8,2022,vegetarian,1,NA
+6,8,2022,hawaiian,5,NA
+6,8,2022,vegetarian,2,NA
+6,8,2022,mediterranean,2,NA
+6,8,2022,mediterranean,3,NA
+6,8,2022,meat lovers,2,NA
+6,8,2022,meat lovers,4,NA
+6,8,2022,margherita,5,NA
+6,8,2022,margherita,6,NA
+6,8,2022,margherita,2,NA
+6,8,2022,vegetarian,4,NA
+7,8,2022,vegetarian,2,NA
+7,8,2022,mediterranean,3,NA
+7,8,2022,mediterranean,3,NA
+7,8,2022,mediterranean,3,NA
+7,8,2022,mediterranean,3,NA
+7,8,2022,mediterranean,3,NA
+7,8,2022,mediterranean,3,NA
+7,8,2022,mediterranean,2,NA
+7,8,2022,mediterranean,2,NA
+7,8,2022,mediterranean,2,NA
+7,8,2022,mediterranean,3,NA
+7,8,2022,mediterranean,3,NA
+7,8,2022,mediterranean,3,NA
+7,8,2022,vegetarian,3,NA
+7,8,2022,vegetarian,3,NA
+7,8,2022,vegetarian,3,NA
+7,8,2022,meat lovers,4,NA
+7,8,2022,meat lovers,6,NA
+7,8,2022,meat lovers,1,NA
+7,8,2022,meat lovers,1,NA
+7,8,2022,meat lovers,2,NA
+7,8,2022,meat lovers,2,NA
+7,8,2022,vegetarian,3,NA
+7,8,2022,vegetarian,3,NA
+7,8,2022,vegetarian,3,NA
+7,8,2022,hawaiian,1,NA
+7,8,2022,vegetarian,3,NA
+7,8,2022,vegetarian,3,NA
+7,8,2022,vegetarian,3,NA
+7,8,2022,meat lovers,8,NA
+7,8,2022,meat lovers,2,NA
+7,8,2022,meat lovers,2,NA
+7,8,2022,vegetarian,4,NA
+7,8,2022,hawaiian,2,NA
+7,8,2022,hawaiian,3,NA
+7,8,2022,margherita,5,NA
+7,8,2022,margherita,5,NA
+7,8,2022,margherita,5,NA
+7,8,2022,margherita,5,NA
+7,8,2022,mediterranean,2,NA
+7,8,2022,mediterranean,2,NA
+7,8,2022,mediterranean,2,NA
+7,8,2022,margherita,3,NA
+7,8,2022,mediterranean,5,NA
+7,8,2022,margherita,1,NA
+7,8,2022,four cheese,3,NA
+7,8,2022,meat lovers,1,NA
+7,8,2022,meat lovers,1,NA
+7,8,2022,mediterranean,2,NA
+7,8,2022,mediterranean,2,NA
+7,8,2022,mediterranean,2,NA
+8,8,2022,meat lovers,1,NA
+8,8,2022,meat lovers,3,NA
+8,8,2022,hawaiian,4,NA
+8,8,2022,four cheese,2,NA
+8,8,2022,vegetarian,1,NA
+8,8,2022,four cheese,3,NA
+8,8,2022,margherita,2,NA
+8,8,2022,margherita,2,NA
+8,8,2022,margherita,2,NA
+8,8,2022,margherita,2,NA
+8,8,2022,margherita,5,NA
+8,8,2022,mediterranean,3,NA
+8,8,2022,mediterranean,3,NA
+8,8,2022,margherita,4,NA
+8,8,2022,margherita,3,NA
+8,8,2022,mediterranean,3,NA
+8,8,2022,mediterranean,3,NA
+9,8,2022,four cheese,4,NA
+9,8,2022,meat lovers,4,NA
+9,8,2022,hawaiian,2,NA
+9,8,2022,hawaiian,2,NA
+9,8,2022,vegetarian,3,NA
+9,8,2022,meat lovers,1,NA
+9,8,2022,mediterranean,3,NA
+9,8,2022,margherita,2,NA
+9,8,2022,margherita,7,NA
+9,8,2022,margherita,7,NA
+9,8,2022,hawaiian,2,NA
+9,8,2022,hawaiian,2,NA
+9,8,2022,vegetarian,2,NA
+9,8,2022,meat lovers,3,NA
+9,8,2022,mediterranean,4,NA
+9,8,2022,margherita,5,NA
+9,8,2022,margherita,7,NA
+9,8,2022,margherita,7,NA
+10,10,2022,margherita,4,NA
+10,10,2022,margherita,4,NA
+10,10,2022,margherita,4,NA
+10,10,2022,margherita,5,NA
+10,10,2022,margherita,5,NA
+10,10,2022,margherita,5,NA
+10,10,2022,margherita,4,NA
+10,10,2022,margherita,4,NA
+10,10,2022,margherita,4,NA
+10,10,2022,margherita,5,NA
+10,10,2022,margherita,5,NA
+10,10,2022,margherita,5,NA
+10,10,2022,margherita,4,NA
+10,10,2022,margherita,4,NA
+10,10,2022,margherita,4,NA
+10,10,2022,margherita,5,NA
+10,10,2022,margherita,5,NA
+10,10,2022,margherita,5,NA
+10,10,2022,hawaiian,2,NA
+10,10,2022,meat lovers,4,NA
+10,10,2022,hawaiian,5,NA
+10,10,2022,vegetarian,1,NA
+10,10,2022,hawaiian,4,NA
+10,10,2022,hawaiian,4,NA
+10,10,2022,hawaiian,3,NA
+10,10,2022,hawaiian,4,NA
+10,10,2022,hawaiian,4,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,meat lovers,1,NA
+11,10,2022,meat lovers,3,NA
+11,10,2022,margherita,3,NA
+11,10,2022,margherita,3,NA
+11,10,2022,margherita,3,NA
+11,10,2022,margherita,3,NA
+11,10,2022,margherita,5,NA
+11,10,2022,margherita,5,NA
+11,10,2022,margherita,5,NA
+11,10,2022,margherita,5,NA
+11,10,2022,margherita,1,NA
+11,10,2022,vegetarian,4,NA
+11,10,2022,vegetarian,4,NA
+11,10,2022,vegetarian,4,NA
+11,10,2022,vegetarian,4,NA
+11,10,2022,vegetarian,4,NA
+11,10,2022,vegetarian,4,NA
+11,10,2022,vegetarian,4,NA
+11,10,2022,vegetarian,4,NA
+11,10,2022,vegetarian,2,NA
+11,10,2022,hawaiian,2,NA
+11,10,2022,hawaiian,2,NA
+11,10,2022,hawaiian,2,NA
+11,10,2022,hawaiian,2,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,4,NA
+11,10,2022,vegetarian,4,NA
+11,10,2022,vegetarian,4,NA
+11,10,2022,vegetarian,4,NA
+11,10,2022,vegetarian,4,NA
+11,10,2022,vegetarian,4,NA
+11,10,2022,vegetarian,4,NA
+11,10,2022,vegetarian,4,NA
+11,10,2022,meat lovers,4,NA
+11,10,2022,meat lovers,4,NA
+11,10,2022,meat lovers,4,NA
+11,10,2022,meat lovers,4,NA
+11,10,2022,meat lovers,2,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,hawaiian,1,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+11,10,2022,vegetarian,3,NA
+12,10,2022,meat lovers,4,NA
+12,10,2022,hawaiian,3,NA
+12,10,2022,margherita,5,NA
+12,10,2022,margherita,5,NA
+12,10,2022,margherita,5,NA
+12,10,2022,margherita,5,NA
+12,10,2022,margherita,2,NA
+12,10,2022,margherita,2,NA
+12,10,2022,margherita,2,NA
+12,10,2022,margherita,2,NA
+12,10,2022,margherita,1,NA
+12,10,2022,margherita,3,NA
+12,10,2022,four cheese,2,NA
+12,10,2022,four cheese,2,NA
+12,10,2022,meat lovers,1,NA
+12,10,2022,meat lovers,1,NA
+12,10,2022,hawaiian,2,NA
+12,10,2022,vegetarian,4,NA
+12,10,2022,vegetarian,4,NA
+12,10,2022,vegetarian,4,NA
+12,10,2022,vegetarian,4,NA
+12,10,2022,four cheese,2,NA
+12,10,2022,four cheese,2,NA
+12,10,2022,meat lovers,5,NA
+12,10,2022,meat lovers,5,NA
+12,10,2022,meat lovers,5,NA
+12,10,2022,meat lovers,5,NA
+12,10,2022,meat lovers,5,NA
+12,10,2022,meat lovers,5,NA
+12,10,2022,meat lovers,5,NA
+12,10,2022,meat lovers,5,NA
+12,10,2022,meat lovers,1,NA
+12,10,2022,meat lovers,1,NA
+12,10,2022,meat lovers,5,NA
+12,10,2022,meat lovers,5,NA
+12,10,2022,meat lovers,5,NA
+12,10,2022,meat lovers,5,NA
+12,10,2022,meat lovers,5,NA
+12,10,2022,meat lovers,5,NA
+12,10,2022,meat lovers,5,NA
+12,10,2022,meat lovers,5,NA
+12,10,2022,hawaiian,1,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,vegetarian,5,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+12,10,2022,four cheese,4,NA
+13,10,2022,margherita,4,NA
+13,10,2022,margherita,4,NA
+13,10,2022,margherita,4,NA
+13,10,2022,margherita,4,NA
+13,10,2022,margherita,4,NA
+13,10,2022,margherita,4,NA
+13,10,2022,margherita,3,NA
+13,10,2022,margherita,3,NA
+13,10,2022,margherita,3,NA
+13,10,2022,margherita,3,NA
+13,10,2022,four cheese,4,NA
+13,10,2022,meat lovers,4,NA
+13,10,2022,hawaiian,2,NA
+13,10,2022,vegetarian,3,NA
+13,10,2022,meat lovers,1,NA
+13,10,2022,margherita,4,NA
+13,10,2022,margherita,4,NA
+13,10,2022,margherita,4,NA
+13,10,2022,margherita,2,NA
+13,10,2022,margherita,2,NA
+13,10,2022,margherita,2,NA
+13,10,2022,margherita,2,NA
+13,10,2022,margherita,2,NA
+13,10,2022,margherita,2,NA
+13,10,2022,margherita,2,NA
+13,10,2022,margherita,2,NA
+13,10,2022,margherita,2,NA
+13,10,2022,margherita,2,NA
+13,10,2022,margherita,2,NA
+13,10,2022,margherita,2,NA
+13,10,2022,margherita,2,NA
+13,10,2022,margherita,2,NA
+13,10,2022,margherita,2,NA
+13,10,2022,margherita,2,NA
+9,10,2022,margherita,4,NA
+9,10,2022,margherita,4,NA
+9,10,2022,margherita,4,NA
+9,10,2022,margherita,5,NA
+9,10,2022,margherita,5,NA
+9,10,2022,margherita,5,NA
+9,10,2022,margherita,4,NA
+9,10,2022,margherita,4,NA
+9,10,2022,margherita,4,NA
+9,10,2022,margherita,5,NA
+9,10,2022,margherita,5,NA
+9,10,2022,margherita,5,NA
+9,10,2022,margherita,4,NA
+9,10,2022,margherita,4,NA
+9,10,2022,margherita,4,NA
+9,10,2022,margherita,5,NA
+9,10,2022,margherita,5,NA
+9,10,2022,margherita,5,NA
+9,10,2022,hawaiian,2,NA
+9,10,2022,meat lovers,4,NA
+9,10,2022,hawaiian,5,NA
+9,10,2022,vegetarian,1,NA
+9,10,2022,hawaiian,4,NA
+9,10,2022,hawaiian,3,NA
+10,10,2022,vegetarian,3,NA
+10,10,2022,meat lovers,1,NA
+10,10,2022,meat lovers,3,NA
+10,10,2022,margherita,3,NA
+10,10,2022,margherita,1,NA
+10,10,2022,vegetarian,4,NA
+11,10,2022,hawaiian,3,NA
+11,10,2022,margherita,2,NA
+11,10,2022,margherita,2,NA
+11,10,2022,margherita,2,NA
+11,10,2022,margherita,2,NA
+11,10,2022,four cheese,2,NA
+12,10,2022,margherita,4,NA
+12,10,2022,margherita,4,NA
+12,10,2022,margherita,4,NA
+12,10,2022,margherita,4,NA
+9,10,2022,margherita,6,NA
+9,10,2022,margherita,7,NA
+9,10,2022,margherita,3,NA
+9,10,2022,margherita,12,NA
+9,10,2022,margherita,43,NA
+9,10,2022,meat lovers,1,NA
+9,10,2022,hawaiian,65,NA
+9,10,2022,vegetarian,34,NA
+9,10,2022,hawaiian,24,NA
+9,10,2022,hawaiian,98,NA
+10,10,2022,vegetarian,34,NA
+10,10,2022,meat lovers,5,NA
+10,10,2022,meat lovers,7,NA
+10,10,2022,margherita,9,NA
+10,10,2022,margherita,2,NA
+10,10,2022,vegetarian,5,NA
+11,10,2022,vegetarian,7,NA
+11,10,2022,vegetarian,9,NA
+11,10,2022,vegetarian,5,NA
+11,10,2022,meat lovers,6,NA
+11,10,2022,meat lovers,6,NA
+11,10,2022,hawaiian,65,NA
+11,10,2022,meat lovers,6,NA
+11,10,2022,meat lovers,6,NA
+11,10,2022,hawaiian,78,NA
+11,10,2022,margherita,34,NA
+11,10,2022,margherita,76,NA
+11,10,2022,margherita,12,NA
+11,10,2022,margherita,32,NA
+11,10,2022,four cheese,21,NA
+11,10,2022,meat lovers,11,NA
+11,10,2022,hawaiian,10,NA
+11,10,2022,vegetarian,14,NA
+12,10,2022,vegetarian,23,NA
+12,10,2022,meat lovers,76,NA
+12,10,2022,meat lovers,74,NA
+12,10,2022,meat lovers,45,NA
+12,10,2022,hawaiian,33,NA
+12,10,2022,vegetarian,7,NA
+12,10,2022,four cheese,9,NA
+12,10,2022,margherita,10,NA
+12,10,2022,margherita,21,NA
+12,10,2022,margherita,12,NA
+13,10,2022,margherita,31,NA
+13,10,2022,four cheese,45,NA
+13,10,2022,meat lovers,63,NA
+13,10,2022,hawaiian,25,NA
+13,10,2022,vegetarian,16,NA
+13,10,2022,meat lovers,19,NA
+13,10,2022,margherita,20,NA
+13,10,2022,margherita,45,NA
+13,10,2022,margherita,32,NA
+1,10,2022,margarita,3,NA
+4,10,2022,cheese,4,NA
+4,10,2022,cheese,4,NA
+4,10,2022,cheese,4,NA
+4,10,2022,cheese,4,NA
+5,10,2022,cheese,3,NA
+7,10,2022,cheese,3,NA
+8,10,2022,meat lovers,3,NA
+12,10,2022,pepperoni,3,NA
+23,10,2022,cheese,2,NA
+23,10,2022,cheese,2,NA
+23,10,2022,cheese,2,NA
+23,10,2022,cheese,2,NA
+23,10,2022,cheese,2,NA
+23,10,2022,cheese,2,NA
+23,10,2022,cheese,2,NA
+23,10,2022,cheese,2,NA
+23,10,2022,cheese,2,NA
+23,10,2022,cheese,2,NA
+23,10,2022,cheese,2,NA
+23,10,2022,cheese,2,NA
+23,10,2022,cheese,2,NA
+23,10,2022,cheese,2,NA
+23,10,2022,cheese,2,NA
+23,10,2022,cheese,2,NA
+25,10,2022,margarita,1,NA
+25,10,2022,margarita,12,NA
+27,10,2022,meat lovers,1,NA
+27,10,2022,meat lovers,1,NA
+27,10,2022,meat lovers,1,NA
+27,10,2022,meat lovers,1,NA
+14,4,2021,margherita,5,NA
+14,4,2021,margherita,2,NA
+14,4,2021,hawaiian,5,NA
+15,4,2021,margherita,5,NA
+15,4,2021,margherita,5,NA
+15,4,2021,margherita,5,NA
+15,4,2021,margherita,5,NA
+16,4,2021,margherita,5,NA
+16,4,2021,margherita,4,NA
+16,4,2021,margherita,4,NA
+16,4,2021,margherita,3,NA
+16,4,2021,margherita,4,NA
+16,4,2021,margherita,4,NA
+17,4,2021,meat lovers,5,NA
+17,4,2021,meat lovers,4,NA
+17,4,2021,hawaiian,4,NA
+21,4,2021,hawaiian,4,NA
+18,4,2021,meat lovers,5,NA
+18,4,2021,vegetarian,4,NA
+18,4,2021,meat lovers,4,NA
+19,4,2021,vegetarian,5,NA
+19,4,2021,meat lovers,4,NA
+19,4,2021,vegetarian,4,NA
+20,4,2021,vegetarian,4,NA
+20,4,2021,four cheese,3,NA
+21,4,2021,four cheese,4,NA
+24,4,2021,margherita,5,NA
+24,4,2021,vegetarian,4,NA
+1,12,2022,margherita,5,12/1/22
+1,12,2022,hawaiian,1,12/1/22
+1,12,2022,hawaiian,1,12/1/22
+1,12,2022,hawaiian,1,12/1/22
+1,12,2022,meat lovers,4,12/1/22
+1,12,2022,meat lovers,4,12/1/22
+1,12,2022,vegetarian,3,12/1/22
+1,12,2022,vegetarian,3,12/1/22
+1,12,2022,four cheese,1,12/1/22
+1,12,2022,four cheese,1,12/1/22
+1,12,2022,margherita,4,12/1/22
+1,12,2022,hawaiian,1,12/1/22
+1,12,2022,hawaiian,1,12/1/22
+1,12,2022,hawaiian,1,12/1/22
+1,12,2022,meat lovers,1,12/1/22
+1,12,2022,meat lovers,1,12/1/22
+1,12,2022,vegetarian,3,12/1/22
+1,12,2022,vegetarian,3,12/1/22
+1,12,2022,four cheese,2,12/1/22
+1,12,2022,margherita,3,12/1/22
+1,12,2022,margherita,3,12/1/22
+1,12,2022,hawaiian,4,12/1/22
+1,12,2022,meat lovers,4,12/1/22
+1,12,2022,meat lovers,4,12/1/22
+1,12,2022,vegetarian,5,12/1/22
+1,12,2022,four cheese,1,12/1/22
+1,12,2022,four cheese,1,12/1/22
+1,12,2022,margherita,3,12/1/22
+1,12,2022,margherita,3,12/1/22
+1,12,2022,hawaiian,1,12/1/22
+1,12,2022,hawaiian,1,12/1/22
+1,12,2022,hawaiian,1,12/1/22
+1,12,2022,meat lovers,1,12/1/22
+1,12,2022,meat lovers,1,12/1/22
+1,12,2022,vegetarian,2,12/1/22
+1,12,2022,four cheese,3,12/1/22
+9,5,2025,margherita,4,NA
+9,5,2025,margherita,9,NA
+9,5,2025,margherita,63,NA
+9,5,2025,margherita,11,NA
+9,5,2025,margherita,76,NA
+9,5,2025,margherita,74,NA
+9,5,2025,hawaiian,31,NA
+9,5,2025,meat lovers,34,NA
+9,5,2025,hawaiian,73,NA
+9,5,2025,vegetarian,96,NA
+9,5,2025,hawaiian,35,NA
+9,5,2025,hawaiian,95,NA
+9,5,2025,hawaiian,26,NA
+9,5,2025,vegetarian,33,NA
+9,5,2025,meat lovers,4,NA
+9,5,2025,meat lovers,28,NA
+9,5,2025,meat lovers,28,NA
+9,5,2025,margherita,90,NA
+9,5,2025,margherita,93,NA
+9,5,2025,margherita,93,NA
+9,5,2025,margherita,6,NA
+9,5,2025,vegetarian,19,NA
+9,5,2025,vegetarian,45,NA
+9,5,2025,hawaiian,97,NA
+9,5,2025,vegetarian,48,NA
+9,5,2025,vegetarian,49,NA
+9,5,2025,meat lovers,70,NA
+9,5,2025,meat lovers,76,NA
+9,5,2025,vegetarian,18,NA
+9,5,2025,hawaiian,36,NA
+9,5,2025,vegetarian,3,NA
+9,5,2025,vegetarian,3,NA
+9,5,2025,meat lovers,10,NA
+9,5,2025,hawaiian,41,NA
+9,5,2025,margherita,25,NA
+9,5,2025,margherita,81,NA
+9,5,2025,margherita,91,NA
+9,5,2025,margherita,32,NA
+9,5,2025,margherita,88,NA
+9,5,2025,margherita,98,NA
+9,5,2025,four cheese,29,NA
+9,5,2025,meat lovers,28,NA
+9,5,2025,meat lovers,28,NA
+9,5,2025,hawaiian,22,NA
+9,5,2025,vegetarian,3,NA
+9,5,2025,vegetarian,3,NA
+9,5,2025,vegetarian,15,NA
+9,5,2025,four cheese,92,NA
+9,5,2025,meat lovers,75,NA
+9,5,2025,meat lovers,46,NA
+9,5,2025,meat lovers,77,NA
+9,5,2025,hawaiian,34,NA
+9,5,2025,four cheese,79,NA
+9,5,2025,vegetarian,10,NA
+9,5,2025,four cheese,96,NA
+9,5,2025,margherita,46,NA
+9,5,2025,margherita,56,NA
+9,5,2025,margherita,17,NA
+9,5,2025,margherita,50,NA
+9,5,2025,four cheese,33,NA
+9,5,2025,meat lovers,14,NA
+9,5,2025,hawaiian,56,NA
+9,5,2025,vegetarian,55,NA
+9,5,2025,meat lovers,21,NA
+9,5,2025,margherita,31,NA
+9,5,2025,margherita,23,NA
+9,5,2025,margherita,93,NA
+9,5,2025,margherita,93,NA
