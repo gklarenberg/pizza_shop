@@ -23,7 +23,7 @@ setwd("./sales")
 csv_files <- list.files(pattern = ".csv")
 dfs <- map(csv_files, read_csv)
 sales_data <- reduce(dfs, full_join)
-write_csv(sales_df, "sales_data.csv")
+write_csv(sales_data, "sales_data.csv")
 
 #c.a There seems to be a data field that is added, populated with NA
 #c.b The figures look questionable because it looks there are many duplicates
@@ -62,3 +62,4 @@ sales_ave_daily <- sales_data %>%
 
 ggplot(data = sales_ave_daily, aes(x = date, y = ave_sales, fill = pizza))+
   geom_bar(stat = "identity", position = "dodge")
+
