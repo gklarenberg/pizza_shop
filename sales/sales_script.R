@@ -22,7 +22,7 @@ for (salesdata in all_sales){
 setwd("./sales")
 csv_files <- list.files(pattern = ".csv")
 dfs <- map(csv_files, read_csv)
-sales_df <- reduce(dfs, full_join)
+sales_data <- reduce(dfs, full_join)
 write_csv(sales_df, "sales_data.csv")
 
 #c.a There seems to be a data field that is added, populated with NA
