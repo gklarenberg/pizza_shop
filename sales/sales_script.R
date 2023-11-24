@@ -19,7 +19,15 @@ for (salesdata in all_sales){
 # Use a tidyverse join to join all the data together into one file
 # called sales_data, then run the rest of the code
 
+setwd("./sales")
+csv_files <- list.files(pattern = ".csv")
+dfs <- map(csv_files, read_csv)
+sales_data <- reduce(dfs, full_join)
+write_csv(sales_data, "sales_data.csv")
 
+#c.a There seems to be a data field that is added, populated with NA
+#c.b The figures look questionable because it looks there are many duplicates
+#    of the same type of order in the same day.
 
 ########################################
 
@@ -54,3 +62,4 @@ sales_ave_daily <- sales_data %>%
 
 ggplot(data = sales_ave_daily, aes(x = date, y = ave_sales, fill = pizza))+
   geom_bar(stat = "identity", position = "dodge")
+
